@@ -2,7 +2,7 @@
 setKeyDelay, 50
 setMouseDelay, 50
 autogrinder:=0
-autogrinderrepeats:=0
+autogrinderrepeats:=1
 enabled:=false
 MsgBox, Script is ready to activate, Alt + F1 to toggle.
 Suspend, On
